@@ -60,7 +60,7 @@ if JatekId==4:
        
 if len(randomlist4)==14:
     for i, elem in enumerate(randomlist4):
-        print("\t"+str(i+1)+":", elem)
+        print("\t"+str(i+1)+".mérközés:", elem)
     
 
 
