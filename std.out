@@ -1,0 +1,68 @@
+Application is running with Unicode string encoding.
+W : pro_bind : attempt to bind function "get_model_file_full_path" , which is already bound
+init_simulate_app:  mode = MECH_INIT_ONSTARTUP (INFO MESSAGE)
+DUMMY - pro_set_input_devices_allowed
+DUMMY - putxyres
+pglSetStatus: Pgl Session Initialize
+DUMMY - putxyres
+uit_get_visual_style_low:  Style is PTC Creo 1 (INFO MESSAGE)
+DUMMY - getpid
+DUMMY - getpid
+init_simulate_app:  mode = MECH_INIT_ONSTARTUP (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdDwgTblFromGallery' should be type uiCmdTypeNone (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdCEFormatsGallery' should be type uiCmdTypeNone (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdCEFltFormatsGallery' should be type uiCmdTypeNone (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'mechanism_large' is not valid ('32x32') in short resource 'procmdutilappmech.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'animation_large' is not valid ('32x32') in short resource 'procmdutilappanim.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'welding_large' is not valid ('32x32') in short resource 'procmdutilappasmweld.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'welding_large' is not valid ('32x32') in short resource 'procmdutilappprtweld.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'piping_large' is not valid ('32x32') in short resource 'procmdutilapppipe.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'cabling_large' is not valid ('32x32') in short resource 'procmdutilappcable.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'mold_cast_large' is not valid ('32x32') in short resource 'procmdutilappmoldcast.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'mold_layout_large' is not valid ('32x32') in short resource 'procmdutilappasmmoldlayout.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'drawing_app_large.bif' is not valid ('32x32') in short resource 'procmdutilappdwgstd.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'legacy_drawing_associator_large.bif' is not valid ('32x32') in short resource 'procmdutilappdwglgcy.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'drw_template_view_large.bif' is not valid ('32x32') in short resource 'procmdutilappdwgtmplt.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'piping_large.bif' is not valid ('32x32') in short resource 'procmdutilappdwgpipe.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'harness_mfg_large' is not valid ('32x32') in short resource 'procmdhmestart.res' (INFO MESSAGE)
+ProCmdSelBufferAttrSet():  Can't to find the command: ProCmdFaceted (INFO MESSAGE)
+ProCmdSelBufferAttrSet():  Selection Buffer Attribute loaded 41 commands (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdMankSelGalPostr' should be type uiCmdTypeNone (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'man_postures_apply.bif' is not valid ('32x32') in short resource 'procmdmankapplgalpostr.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  Can't find a resource ProCmd3dPrintQualityMode. (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'print_3d_large' is not valid ('32x32') in short resource 'procmd3dprint.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'save_as_large' is not valid ('32x32') in short resource 'procmd3dprintsaveas.res' (INFO MESSAGE)
+UitGroupItem::initVertCells:  The maximum group height has been increased to 73 (INFO MESSAGE)
+addHints:  adding UGC_NEUTRAL (INFO MESSAGE)
+maybe_open:  hint is UGC_NEUTRAL (INFO MESSAGE)
+ugc_check_version_dbtype:  file 67 != expected 7 (INFO MESSAGE)
+addHints:  adding UGC_NEUTRAL (INFO MESSAGE)
+maybe_open:  hint is UGC_NEUTRAL (INFO MESSAGE)
+ugc_check_version_dbtype:  file 67 != expected 7 (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'options_large.bif' is not valid ('32x32') in short resource 'procmdribbonoptionsdlg.res' (INFO MESSAGE)
+ResizeControlWdg::resizeContainerHorz:  Can't resize the control bar properly (INFO MESSAGE)
+maybe_open:  access failed (INFO MESSAGE)
+ugc_set_cur_portion:  reset encountered (INFO MESSAGE)
+maybe_open:  access failed (INFO MESSAGE)
+ugc_set_cur_portion:  reset encountered (INFO MESSAGE)
+ResizeControlWdg::resizeContainerHorz:  Can't resize the control bar properly (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'session_warning_events32x16' is not valid ('32x16') in short resource 'procmdinfonmgrlightdlg.res' (INFO MESSAGE)
+uit_get_visual_style_low:  Style is PTC Creo 1 (INFO MESSAGE)
+pglSetStatus: PglWindowEndNoGraphics: Not in nographics mode.
+
+ run mode = 3
+cadds5_link_app_path_name():  NuTCRACKER is not installed (INFO MESSAGE)
+msg_translate: ERROR: message 2898 not found in file 139 ("pro9"). 
+msg_translate: ERROR: message 2899 not found in file 139 ("pro9"). 
+check_exec_file_accessible_():  C:\Program Files\PTC\Creo 3.0\M190\Common Files\\x86e_win64\obj\SWToPro.exe accessible (INFO MESSAGE)
+check_exec_file_accessible_():  C:\Program Files\PTC\Creo 3.0\M190\Common Files\\x86e_win64\obj\SeodxToPro.exe accessible (INFO MESSAGE)
+PFSDBArrToFilter:  shouldn't do both (INFO MESSAGE)
+PFSTMakeTypeString:  no zip found (INFO MESSAGE)
+MISSING_TRANS_ENTRY:  Item 'TLBCATIA 3DEXPERIENCE Assembly' is missing from the language version of hash-based message lookup (INFO MESSAGE)
+MISSING_TRANS_ENTRY:  Item 'TLBCATIA 3DEXPERIENCE Part' is missing from the language version of hash-based message lookup (INFO MESSAGE)
+MISSING_TRANS_ENTRY:  Item 'TLBCATIA 3DEXPERIENCE Drawing' is missing from the language version of hash-based message lookup (INFO MESSAGE)
+MISSING_TRANS_ENTRY:  Item 'TLBCATIA 3DEXPERIENCE 3DShape' is missing from the language version of hash-based message lookup (INFO MESSAGE)
+MISSING_TRANS_ENTRY:  Item 'TLBCATIA 3DEXPERIENCE 3DXML' is missing from the language version of hash-based message lookup (INFO MESSAGE)
+AdbPage::buildSizeStateTable:  Can't build Size State Table for page 'page_Home' (INFO MESSAGE)
+pgli_ogl_release_one_native_texture::  Invalid Opengl Context
+ (INFO MESSAGE)
