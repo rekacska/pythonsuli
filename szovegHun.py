@@ -1,5 +1,5 @@
 text = {"Megérkezel a kazamata bejáratához. Csikorogva kinyílik az ajtó és egy sötét, dohos folyosó fogad.":"Megérkezel a kazamata bejáratához. Csikorogva kinyílik az ajtó és egy sötét, dohos folyosó fogad.",
-        "belépsz és gyyújtasz egy fáklyát":"belépsz és gyyújtasz egy fáklyát",
+        "belépsz és gyújtasz egy fáklyát":"belépsz és gyújtasz egy fáklyát",
         "besétálsz a sötétbe":"besétálsz a sötétbe",
         "Túl hideg van, halálra fagytál!":"Túl hideg van, halálra fagytál!",
         "újrakezdés":"újrakezdés",
@@ -44,7 +44,7 @@ text = {"Megérkezel a kazamata bejáratához. Csikorogva kinyílik az ajtó és
         "kilépés":"kilépés",
         "Kevesebbet dobtál mint az ellenfél, ezért csúnyán elfenekelt! Meghaltál!":"Kevesebbet dobtál mint az ellenfél, ezért csúnyán elfenekelt! Meghaltál!",
         "újrakezdés":"újrakezdés",
-        "kilépés":"kilépés",
+        "kilépés":"kilépés",}
         
         
         
