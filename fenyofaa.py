@@ -58,6 +58,8 @@ pontok=eltol(fenyo1,10,10)
 canvas.create_line(fenyo1,width=5,fill="green")
 fenyo2=[200,0,0,100,150,100,0,200,150,200,0,300,150,300,150,400,250,400,250,300,400,300,250,200,400,200,250,100,400,100,200,0]
 
+kX,kY=kozepSzamol(fenyo2)
+
 fenyo2=eltol(fenyo2,200,200)
 canvas.create_line(fenyo2,width=5,fill="green")
 

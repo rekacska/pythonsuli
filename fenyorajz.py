@@ -38,7 +38,7 @@ def kozepSzamol(lista):
     x=0
     y=0
     for i in range(len(lista)):
-        if i%==0:
+        if i%2==0:
             x+=lista[i]
         else:
             y+=lista[i]
