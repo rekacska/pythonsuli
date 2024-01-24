@@ -1,12 +1,16 @@
+<<<<<<< HEAD
 from tkinter import *
 import math
 import random
 
+=======
+>>>>>>> a21e2210f99e27c965e55a780525753aed7c66f9
 def eltol(pontok,x,y):
     for i in range(0,len(pontok),2):
         pontok[i]+=x
         pontok[i+1]+=y
     return pontok
+<<<<<<< HEAD
 
 def nagyit(pontok,x,y=-1):
 
@@ -68,10 +72,25 @@ canvas.pack(fill = BOTH, expand = 1)
 pontok=[0,0,100,0,100,100,0,100]
 
 #eltolás
+=======
+from tkinter import *
+import math
+
+win=Tk()
+win.geometry("600x600")
+
+canvas=Canvas(win, width=600, height=300)
+canvas.configure(bg="lightblue")
+canvas.pack(fill=BOTH,expand=1)
+
+pontok=[0,0,100,0,100,100,0,100,0,0]
+canvas.create_line(pontok,width=1.5,fill="green")
+>>>>>>> a21e2210f99e27c965e55a780525753aed7c66f9
 for i in range(0,len(pontok),2):
     pontok[i]+=200
     pontok[i+1]+=100
 
+<<<<<<< HEAD
 canvas.create_line(pontok,width=5,fill="purple")
 pontok=eltol(pontok,100,0)
 print(pontok)
@@ -106,3 +125,12 @@ canvas.create_line(fenyo2,width=5,fill="green")
 
 win.mainloop()
 
+=======
+
+canvas.create_line(pontok,width=1.5,fill="green")
+pontok=eltol(pontok,0,100)
+
+win.mainloop()
+
+fenyo1=[200,0,0,400,190,400,190500,210,500,210,400,400,400,200,0]
+>>>>>>> a21e2210f99e27c965e55a780525753aed7c66f9
