@@ -42,12 +42,12 @@ labdaPos=[200,100]
 labdaSize=50
 labdaColor="green"
 red,green,blue=0,0,0
-
+labdaListaHossz=5
 labdaLista=[]
 labdaLista
 
 while True:
-    labdaColor,red,green,blue=atmenetColor(red,green,blue)
+    labdaColor=atmenetColor(red,green,blue)
     labdaPos[0]+=labdaSpeed[0]
     labdaPos[1]+=labdaSpeed[1]
 
