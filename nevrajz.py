@@ -104,7 +104,11 @@ A=[[0,400,
     250,200]]
 
 hatter="#ffffff"
+<<<<<<< HEAD
 BetuSzinek=["Blue",hatter,hatter]
+=======
+BetuSzinek=["Blue",hatter,"Blue","Blue","Blue",hatter]
+>>>>>>> 0a671647a28e793e7595ad04d75130de008fd96c
 
 R2=transzformaciok.masol(R)
 R2=transzformaciok.eltol(R2,100,100)
@@ -122,21 +126,41 @@ A2=transzformaciok.masol(A)
 A2=transzformaciok.eltol(A2,1100,250)
 A2=transzformaciok.nagyit(A2,0.4)
 
+<<<<<<< HEAD
 #for e in R2:
  #   canvas.create_line(e,width=5,fill="pink",)
 
 while True:
     canvas.delete("all")
+=======
+print(R2,E2,K2,A2)
+
+Reka=[[100, 100, 210, 100, 210, 190, 130, 190, 130, 220, 160, 220, 160, 250, 190, 250, 190, 280, 220, 280, 220, 250, 190, 250, 190, 220, 160, 220, 160, 190, 130, 190, 130, 290, 100, 290, 100, 100],
+    [127.5, 122.5, 182.5, 122.5, 182.5, 167.5, 127.5, 167.5, 127.5, 122.5],
+    [225.0, 114.0, 225.0, 264.0, 345.0, 264.0, 345.0, 234.0, 255.0, 234.0, 255.0, 204.0, 345.0, 204.0, 345.0, 174.0, 255.0, 174.0, 255.0, 144.0, 345.0, 144.0, 345.0, 114.0, 225.0, 114.0],
+    [350, 110, 380, 110, 380, 185, 425, 110, 450, 110, 410, 185, 425, 260, 400, 260, 380, 185, 380, 260, 350, 260, 350, 110],
+    [440.0, 260.0, 512.0, 260.0, 540.0, 200.0, 580.0, 200.0, 608.0, 260.0, 680.0, 260.0, 600.0, 100.0, 520.0, 100.0, 440.0, 260.0],
+    [540.0, 180.0, 576.0, 180.0, 588.0, 120.0, 552.0, 120.0, 540.0, 180.0]]
+
+while True:
+    canvas.delete("all")
+    Reka=transzformaciok.forgat(Reka,0.3)
+>>>>>>> 0a671647a28e793e7595ad04d75130de008fd96c
     #canvas.create_polygon(R2,width=5,fill="white",outline="black")
     #canvas.create_polygon(E2,width=5,fill="white",outline="black")
     #canvas.create_polygon(K2,width=5,fill="white",outline="black")
     #canvas.create_polygon(A2,width=5,fill="white",outline="black")
     #R2=transzformaciok.forgat(R2,0.01)
+<<<<<<< HEAD
     for i,e in enumerate(R2):
         d=canvas.create_polygon(e,width=2,fill=BetuSzinek[i], outline="black")
         l=canvas.create_polygon(E2,width=2,fill=BetuSzinek[i], outline="black")
         c=canvas.create_polygon(K2,width=2,fill=BetuSzinek[i], outline="black")
         p=canvas.create_polygon(A2,width=2,fill=BetuSzinek[i], outline="black")
+=======
+    for i,e in enumerate(Reka):
+        d=canvas.create_polygon(e,width=2,fill=BetuSzinek[i], outline="black")
+>>>>>>> 0a671647a28e793e7595ad04d75130de008fd96c
 
 
     win.update_idletasks()
